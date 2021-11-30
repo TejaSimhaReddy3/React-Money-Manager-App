@@ -1,0 +1,24 @@
+.transactionLi {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+
+  border-top: 1px solid #cbd5e1;
+}
+.para {
+  margin: 2px;
+  max-width: 20%;
+}
+.button1 {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+}
+.deleteImg {
+  width: 30%;
+}
+.deleteButtonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

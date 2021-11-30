@@ -1,0 +1,39 @@
+.moneyContainers {
+  display: flex;
+}
+.balanceContainer {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+.middleContainers {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-top: 20px;
+  margin-right: 23px;
+  border-radius: 10px;
+}
+.moneyImgs {
+  width: 15%;
+}
+.mainContainers {
+  padding-left: 15px;
+  font-family: 'Roboto';
+}
+.containerHead {
+  color: #475569;
+  font-size: 12px;
+}
+.mainMoney {
+  color: #475569;
+  font-weight: 600;
+  font-size: 23px;
+}
+.expensesContainer {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.incomeContainer {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
